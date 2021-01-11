@@ -1,4 +1,4 @@
-Papers listed in *reverse* chronological order from the date I read them.
+Papers listed in *reverse* chronological order from the date first read.
 
 1. [**]()<br>
 **Keywords:**
@@ -24,14 +24,41 @@ Papers listed in *reverse* chronological order from the date I read them.
 1. [**]()<br>
 **Keywords:**
 
-1. [**]()<br>
-**Keywords:**
+1. [*Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning*]() Alaa, van der Schaar arXiv 2018 (UCLA, Cambridge University) <br>
+**Keywords:** None provided... Automated machine learning (AutoML), Bayesian optimization, AutoPrognosis, Gaussian process prior, Dirichlet prior, sparse additive kernel
 
-1. [**]()<br>
-**Keywords:**
+1. [*Cardiovascular disease risk prediction using automated machine learning*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213653) Alaa, van der Schaar et al. PLOS One 2019 (UCLA, Cambridge Unviersity)<br>
+**Keywords:** None provided... Cardiovascular disease (CVD), machine learning, automated machine learning (AutoML), AutoPrognosis, Framingham score, Cox proportional hazards model, UK Biobank
 
-1. [**]()<br>
-**Keywords:**
+1. [*Machine Learning to Guide the use of Adjuvant Therapies for Breast Cancer*](https://www.researchsquare.com/article/rs-53594/v1) Alaa, van der Schaar et al. Nature Research *PREPRINT* 2020 (UCLA, Cambridge University)<br>
+**Keywords:** Machine learning, breast cancer, adjuvant therapy
+
+1. [*Physics-driven CFD modeling of complex anatomical cardiovascular flows*](https://link.springer.com/article/10.1007/s10439-005-1731-0) Frakes, Pekkan et al. Annals of Biomedical engineering 2005 (Georgia Tech)<br>
+**Keywords:** Fontan operation, Digital Particle Image Velocimetry (DPIV), Flow instability, Computational Fluid Dynamics (CFD), Exact replicate models, Patient specific, Surgical planning, Total Cavopulmonary Connection (TCPC)
+
+1. [*Accelerating massively parallel hemodynamic models of coarctation of the aorta using neural networks*](https://www.nature.com/articles/s41598-020-66225-0) Feiger, Randles et al. Scientific Reports 2020 (Duke University) <br>
+**Keywords:** None provided... Hemodynamic models, neural networks, comorbidities, physics-based simulations, stenosis
+
+1. [*A framework for biomechanics simulations using four-chamber cardiac models*](https://www.sciencedirect.com/science/article/pii/S0021929019303513) Jafari et al. Journal of Biomechanics 2019 (Iowa State University) <br>
+**Keywords:** Four-chamber human heart model, Finite element analysis, Cubic-hermite hexahedral elements, Cardiac modeling, Isogeometric analysis, Myocardial infarction
+
+1. [*Risk factor-based subphenotyping of heart failure in the community*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222886) Andersson et al. PLOS One 2019 (Boston University)<br>
+**Keywords:** None provided... Heart failure, Framingham heart study, subphenotyping, mortality risk
+
+1. [*Computational pre-surgical planning of arterial patch reconstruction: parametric limits and in vitro validation*](https://link.springer.com/article/10.1007/s10439-018-2043-5) Lashkarinia, Pekkan et al. Annals of Biomedical Engineerng 2018 (Koc University)<br>
+**Keywords:** Pulmonary outflow tract, PTFE patch, Presurgical planning, Congenital heart defects, Hemodynamics, Surgical materials, Rapid-prototyping, Computational biomechanics
+
+1. [*Accelerating cardiovascular model building with convolutional neural networks*](https://link.springer.com/article/10.1007/s11517-019-02029-3) Maher, Marsden et al. Medical & Biological Engineering & Computing 2019 (Stanford University)<br>
+**Keywords:** Cardiovascular engineering, convolutional neural networks, SimVascular, patient-specific modeling, cardiovascular simulation
+
+1. [*Patient Prognosis from Vital Sign Time Series: Combining Convolutional Neural Networks with a Dynamical Systems Approach*](https://ieeexplore.ieee.org/abstract/document/7411099) Lehman et al. Computing in Cardiology 2015 (MIT)<br>
+**Keywords:** patient prognosis, vital sign time series, convolutional neural networks, dynamical systems approach, stacked switching vector-autoregressive-CNN architecture, SVAR, physiological time series, dynamical feature extraction, transition patterns, dynamical modes, mean arterial blood pressure, MIMIC-II database, logistic regression, nonlinear time series classification, nonstationary time series classification
+
+1. [*FM-Track: A fiducial marker tracking software for studying cell mechanics in a three-dimensional environment*](https://www.sciencedirect.com/science/article/pii/S2352711019303474) Lejeune et al. SoftwareX 2020 (Boston University)<br>
+**Keywords:** Particle tracking, fiducial markers, open-source software, traction force microscopy, cell mechanics
+
+1. [*Model order reduction of flow based on a modular geometrical approximation of blood vessels*](https://arxiv.org/abs/2010.00285.pdf) Pegolottio, Marsden et al. arXiv 2020 (Ecole Polytechnique, Stanford University)<br>
+**Keywords:** Cardiovascular simulations, model order reduction, reduced basis method, domain-decomposition
 
 1. [*Multilevel and multifidelity uncertainty quantification for cardiovascular hemodynamics*](https://www.sciencedirect.com/science/article/pii/S0045782520302140) Fleeter, Marsden et al. Computer Methods in Applied Mechanics and Engineering 2020 (Stanford University)<br>
 **Keywords:** Cardiovascular modeling, uncertainty quantification, multilevel monte carlo, multifidelity monte carlo, multilevel multifidelity monte carlo
