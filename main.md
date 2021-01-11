@@ -1,28 +1,15 @@
 Papers listed in *reverse* chronological order from the date first read.
 
-1. [**]()<br>
-**Keywords:**
+1. [*A deep learning approach to estimate stress distribution: a fast and accurate surrogate of finite-element analysis*](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844) Liang, Sun et al. Interface 2018 (Georgia Tech, Emory University) <br>
+**Keywords:** deep learning, neural network, finite element analysis, stress analysis
 
-1. [**]()<br>
-**Keywords:**
+1. [*Artificial intelligence approaches to predict coronary stenosis severity using non-invasive fractional flow reserve*](https://journals.sagepub.com/doi/pdf/10.1177/0954411920946526) Carson et al. Journal of Engineering in Medecine 2020 (Swansea University) <br>
+**Keywords:** Artificial intelligence, computational mechanics, biomedical engineering, haemodynamic modelling, coronary heart disease, fractional flow reserve
 
-1. [**]()<br>
-**Keywords:**
-
-1. [**]()<br>
-**Keywords:**
-
-1. [**]()<br>
-**Keywords:**
-
-1. [**]()<br>
-**Keywords:**
-
-1. [**]()<br>
-**Keywords:**
-
-1. [**]()<br>
-**Keywords:**
+1. [*A machine-learning approach for computation of fractional flow reserve from coronary computed tomography*](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00752.2015) Itu et al. Journal of Applied Physiology 2016 (Siemens)<br>
+**Keywords:** machine learning, synthetic database, coronary artery disease, fractional flow reserve (FFR), coronary computed tomography angiography (CCTA)
+1. [*A comparison of outlet boundary treatments for prevention of backflow divergence with relevance to blood flow simulations*](https://link.springer.com/article/10.1007/s00466-011-0599-0) Moghadam, Marsden et al. Computational Mechanics 2011 (UCSD) <br>
+**Keywords:** Neumann boundary condition outflow stabilization, Lagrange multipliers, normal velocity constraint, patient-specific blood flow, flow reversal, Navier-Stokes FEM solver, cardiovascular simulation
 
 1. [*Autoprognosis: Automated clinical prognostic modeling via bayesian optimization with structured kernel learning*]() Alaa, van der Schaar arXiv 2018 (UCLA, Cambridge University) <br>
 **Keywords:** None provided... Automated machine learning (AutoML), Bayesian optimization, AutoPrognosis, Gaussian process prior, Dirichlet prior, sparse additive kernel
